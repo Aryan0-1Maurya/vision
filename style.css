@@ -1,0 +1,77 @@
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
+
+* {
+    user-select: none;
+    margin: 0;
+    padding: 0;
+}
+
+html,body {
+   width: 100%;
+   height: 100%;
+   position: fixed;
+}
+
+canvas {
+   width: 100%;
+   height: 100%;
+   background-color: black;
+   padding: 0;
+   position: absolute;
+   z-index: -1;
+}
+
+#fps {
+   position: absolute;
+   left: 0;
+   top: 0;
+}
+
+a {
+   position: absolute;
+   color: white;
+   font-size: medium;
+}
+
+#health {
+   width: 20vw;
+   left: calc(50% - 10vw);
+}
+
+#enemies {
+   bottom: 0;
+   left: 2vw;
+}
+
+
+#score {
+   bottom: 0;
+   right: 2vw;
+}
+
+
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
